@@ -8,4 +8,4 @@ permalink: /2014/06/first-blog-post/
 ---
 w00t, eerste post! Zal het ook mijn laatste zijn?
 
-![](images/firstblog.gif)
+![](/images/firstblog.gif)
