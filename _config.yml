@@ -1,10 +1,11 @@
+title: "index"
 description: "Thats me!"
 permalink: /:title/
 lang: "en"
 
-navigation:                  # site navigation in the header
-  - /index.md
-  - about.md
+markdown: redcarpet
+pygments: true
+
 
 plugins:
  - jekyll-feed
