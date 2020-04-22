@@ -6,6 +6,8 @@ author: Rik
 layout: post
 permalink: /2014/10/01/combining-shellshock-with-my-wi-fi-pineapple/
 ---
+<br><br>
+
 Hi All,
 
 This time I will write my post in English since it’s directed at security folks. I got the idea of chaining the karma module of the pineapple with shellshock on the day of the advisory. I was giving a demo with the pineaple and noticed allot of systems called “mbp-*” which I guess where mac book pro’s. At the end of the day Trustedsec released a POC with a DHCP server which got me thinking. Since OSX was vulnerable I wanted to see if I could force them to join my network and own all those shiny Macbooks.
