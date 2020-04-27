@@ -43,11 +43,11 @@ import base64, sys; print base64.b64encode(open(sys.argv[1]).read().encode('utf_
 
 The output can be executed using the PowerShell command:
 
-{% highlight powershell %}
+```powershell
 
 powershell -win hidden -enc base64encodedscript
 
-{% endhighlight %}
+```
 
 This all adds up to the following macro:
 
