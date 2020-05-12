@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/rikvanduijn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://uijn.nl
+  * I am rikvanduijn (https://keybase.io/rikvanduijn) on keybase.
+  * I have a public key with fingerprint 0BBC 610F A054 335B ED0A  4037 65D2 FA8F 8611 595A
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "0bbc610fa054335bed0a403765d2fa8f8611595a",
+            "host": "keybase.io",
+            "key_id": "65d2fa8f8611595a",
+            "uid": "02ac9405628d20bbfbaf4f403c43ff00",
+            "username": "rikvanduijn"
+        },
+        "service": {
+            "hostname": "uijn.nl",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1409825982,
+    "expire_in": 157680000,
+    "prev": "b6fa6771f3051765effc8140a083eb1a7ce29d79cd785dffc8619a6fad880f30",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.0.2
+Comment: https://keybase.io/crypto
+
+yMHgAnicO8LLzMDFmHrpV3+bYGQU4+kD70sZQjhs9lUrJeWnVCpZVStlp4KptMy8
+9NSigqLMvBIlKyWDpKRkM0ODtEQDUxNjY9Ok1BSDRBMDY3Mz0xSjtESLNAszQ0NT
+S9NEJR2ljPxikA6gMUmJxal6mflAMSAnPjMFKIpFfSlYwsAoMdnSxMDUzMgixQho
+W1pSYppJGtCKZBPjtDQDA5DC4tSivMTcVKDqoszsssS8lNLMrDylWh0loERZZnIq
+yNkg26GKQLJ6eTlAnQVF+SX5yfk5QMGMkpICK5CeksoCkKLy1KR4qPb4pMy8FKCv
+gRrKUouKM/PzlKwMgSqTSzJB5hmaGFhaGJkCsY5SakVBZlFqfCZIham5mYUBEICs
+SS0DGplklpZoZm5umGZsYGoIDKHUtLRkC6DuRAML49Qkw0Tz5FQjyxRzy+QUcwvT
+FJCkmaFlIlBTioWFAVCTEshDhXn5SlYmQGcmpgONLM5Mz0ssKS1KVao9dCCGhYGR
+i4GNlQkUbwxcnAKw2Ox/yv5XillQg/lXh6PQ7/33ufxWWwqpZacw3Py3/ouU8+ny
+EM1X1x55XjnMcdMkLzNcX05bdAeXaWjzieMH0srCq44KhCk/q5Q96dKsIJIxe22M
+/7GS6OVehvJH3Nbt956cJCXd9jL4ON/X2ofrv3RNXq197NFHpiM7nDRsnjblnpzP
+E7zd/XvaOasjL/Y6aMqwHRdU/N/WEf2tJG7S3tJlz4W3uwkafPJ5UqRqlzErs/Pa
+pu3eOue1Yt+sqMgtEFsgoi6Zrfmsab2IkK3R5x8uAZ8a5p8RvW2yLVjnreGf9X9t
+b/R+CPweyKBtbBgmOF/lg1J1zVn19QxBOopb5ib25Oxbp/OKq6Nfs48t2bUrBwDp
+rgwA
+=b5Um
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rikvanduijn
+
+==================================================================
+
